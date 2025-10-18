@@ -1,0 +1,4 @@
+layer,weights_shape,bias_shape
+hidden_1,"(16, 64)","(64,)"
+hidden_2,"(64, 32)","(32,)"
+output,"(32, 1)","(1,)"
